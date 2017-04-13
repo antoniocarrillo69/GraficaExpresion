@@ -1,0 +1,25 @@
+Jerarquía de clases que permite solicitar una cadena que contenga una expresión del tipo:
+   y=sinl(x)*x
+y el programa genera la gráfica mostrandola en formato texto como:
+
+
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                ********                                *********               
+             ***        ****                        *****       ***             
+           ***             ****                   ***             ***           
+          **                  ****            ****                  ***         
+        **                       **************                       **        
+       **                               *                              **       
+      **                                                                **      
+     **                                                                   *     
+    *                                                                      **   
+   *                                                                        *   
+  *                                                                          ** 
+**                                                                            **
+*                                                                              *
+
+
+
